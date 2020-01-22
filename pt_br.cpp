@@ -39,3 +39,5 @@ CS:GO configs in-game{
 --- Sensibilidade:0.70;
 --- DPI:800;
 }
+
+return 0;
