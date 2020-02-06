@@ -41,5 +41,3 @@ CS:GO configs in-game{
 }
 
 return 0;
-
-Made by Raijin
