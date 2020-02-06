@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream> 
 using namespace std;
 /* No acepto un perfil privado o VAC, gracias por su comprensión;
 No me pidas juegos o artículos */
