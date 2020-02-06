@@ -35,7 +35,7 @@ Equipo{
 }
 
 CS:GO configuraciones en el juego{
---- Resolución:1280x960 (4: 3);
+--- Resolución:1280x960(4:3);
 --- Sensibilidad:0,70;
 --- DPI:800;
 }
