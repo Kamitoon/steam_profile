@@ -6,8 +6,8 @@ Don't ask me for games or items. */
 ///en_us
 Personal Information{
 --- Name:Rafael;
---- Age:18 years;
---- Height:1.65 m;
+--- Age:19 years;
+--- Height:1.64 m;
 --- Birth:4/25/2001;
 --- Gender:Male;
 --- Profession:Student;
