@@ -16,8 +16,8 @@ Don't ask me for games or items. */[/i]
 [b]Informações pessoais:
 {
 --- Nome: Rafael;
---- Idade: 18 anos;
---- Altura: 1,65 m;
+--- Idade: 19 anos;
+--- Altura: 1,64 m;
 --- Nascimento: 25/04/2001;
 --- Sexo: Masculino;
 --- Profissão: Estudante;
