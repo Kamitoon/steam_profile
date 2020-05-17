@@ -6,8 +6,8 @@ No me pidas juegos o artículos */
 /// es
 Informaciones personales{
 --- Nombre:Rafael;
---- Edad:18 años de edad;
---- Altura:1,65 m;
+--- Edad:19 años de edad;
+--- Altura:1,64 m;
 --- Nacimiento:25/04/2001;
 --- Sexo:Masculino;
 --- Profesión:Estudiante;
